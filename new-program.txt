@@ -4,3 +4,4 @@ plan to make new progrm
 - have to learn react tailwind
 *before learn react we have to understand javascript
 - i have to learn git
+- learn javascript
