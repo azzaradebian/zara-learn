@@ -5,3 +5,7 @@ plan to make new progrm
 *before learn react we have to understand javascript
 - i have to learn git
 - learn javascript
+*framework javascript
+*dont forget to learn react
+-learn php
+-learn phyton
