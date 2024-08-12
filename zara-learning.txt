@@ -2,3 +2,4 @@ Zara Learn
 -consistent
 -learn git
 -learn github
+-learn reactjs
