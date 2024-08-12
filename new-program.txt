@@ -6,5 +6,6 @@ plan to make new progrm
 - i have to learn git
 - learn javascript
 *framework javascript
+*dont forget to learn react
 -learn php
 -learn phyton
