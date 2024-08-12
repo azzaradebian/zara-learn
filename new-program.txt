@@ -1,0 +1,6 @@
+plan to make new progrm
+
+- program to make all of task easier
+- have to learn react tailwind
+*before learn react we have to understand javascript
+- i have to learn git
